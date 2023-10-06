@@ -9,17 +9,16 @@
 }
 
 body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     background-color: #8ea289 !important; 
-}
-
-nav {
-    
 }
 
 .hero-img {
     margin-top: 50px;
-    width: 600px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
     animation-name: hero-zoom;
     animation-duration: 4s;
     animation-fill-mode: forwards;
