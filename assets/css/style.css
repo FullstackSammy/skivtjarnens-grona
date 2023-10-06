@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lato&display=swap');
+
 @keyframes hero-zoom {
     from {
         transform: scale(1);
@@ -13,6 +15,12 @@ body {
     padding: 0;
     box-sizing: border-box;
     background-color: #8ea289 !important; 
+}
+
+nav {
+    font-family: 'Dancing Script', sans-serif;
+    font-size: 20px;
+    margin-top: 15px;
 }
 
 .hero-img {
