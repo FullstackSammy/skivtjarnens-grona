@@ -19,6 +19,7 @@ body {
 
 nav {
     font-family: 'Cormorant SC', sans-serif;
+    letter-spacing: 4px;
     font-size: 20px;
     margin-top: 15px;
 }
