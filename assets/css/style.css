@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300&family=Dancing+Script&family=Lato&display=swap');
 
 @keyframes hero-zoom {
     from {
@@ -18,7 +18,7 @@ body {
 }
 
 nav {
-    font-family: 'Dancing Script', sans-serif;
+    font-family: 'Cormorant SC', sans-serif;
     font-size: 20px;
     margin-top: 15px;
 }
