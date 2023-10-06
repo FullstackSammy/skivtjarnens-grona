@@ -1,0 +1,26 @@
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.2);
+    }
+}
+
+body {
+    background-color: #8ea289 !important; 
+}
+
+nav {
+    
+}
+
+.hero-img {
+    margin-top: 50px;
+    width: 600px;
+    height: 600px;
+    animation-name: hero-zoom;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
